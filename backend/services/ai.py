@@ -2,7 +2,7 @@ from zhipuai import ZhipuAI
 import json
 import re
 
-client = ZhipuAI(api_key="70824862f50d4738aadf619531632cd6.jadApftC0k1IqdMi")
+client = ZhipuAI(api_key="其输入的申请的api")
 
 
 def analyze_contract(text):
